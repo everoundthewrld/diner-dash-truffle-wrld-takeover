@@ -1,0 +1,46 @@
+{
+    "name": "Diner Dash: Truffle Wrld Takeover!",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.46",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFF1E8",
+        "#BE0E43",
+        "#F4997B",
+        "#EEB18B",
+        "#FFEC27",
+        "#008751",
+        "#00E436",
+        "#633EA8",
+        "#C2C3C7",
+        "#7E2553",
+        "#83769C",
+        "#0A0934",
+        "#FFCCAA",
+        "#834444",
+        "#010204"
+    ]
+}
